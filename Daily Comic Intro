@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Comic Blog Intro</title>
+    </head>
+    <body>
+    <h1>DAILY COMICS</h1>
+    <br>
+    <h4>Content Table:</h4><h5>Intro,<br><a href='#to-the-daily' > To the daily comics</a></h5>
+    <h3>Intro</h3>
+    <p>Welcome to the daily comics! My name is Orkun Hatipoğlu and I will be sending you my collection of funny comics every day. I am not going to be sending the comics in this web page, but you can find my daily comics blog from the <a href='#to-the-daily' >link below.</a> My comics can be Harry Potter comics, book illustranions and (maybe) gif comics. Gif comics are rare, like if it's sunday, and you worked hard by the rest of the week, you can have fun with the gif comics. There will always be a Code Editor next to the post. Now, please take a moment to look at the code editor. The green writing color is called "Comments". Please read it.<!-- Hello, you can write your comments like this. Please do not change the pharagraph. Just start with the codes I started and finish with the codes I will finished. -->The computer will completely ignore this and please do the closing code<br>(-->)without the bracets. Otherwise, the rest of the text will disappear. All of it will be a comment and you will have to read the codes for the rest of the Intro.(What exciting). <br>
+    <br> Wow! That was quite long! Now, you can start your journey. For comments, please write the comment codes(the start and the end) with your <strong><em>username(You do not have to give your real name)</em></strong> please because I would like to know who commented me. Have fun!</p>
+    
+    <h3 id='to-the-daily'>To The Daily Comics</h3>
+    <p><a href='https://htmlg.com/html-editor/?html=%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%20%20%20%20%3Chead%3E%0A%20%20%20%20%20%20%20%20%3Cmeta%20charset=%22utf-8%22%3E%0A%20%20%20%20%20%20%20%20%3Ctitle%3ETHE%20DAILY%20COMİCS%3C/title%3E%0A%20%20%20%20%3C/head%3E%0A%20%20%20%20%3Cbody%3E%0A%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20%3Ch1%3ETHE%20DAILY%20COMICS%3C/h1%3E%0A%20%20%20%20%3Cimg%20src=%27https://en.bcdn.biz/Images/2018/9/20/c6178704-1623-4c26-875c-f076002f2087.jpg%27%20wi$*$dth=%27450%27%3E%0A%0A%0A%20%20%20%20%3C/body%3E%0A%3C/html%3E&css='> Click here to go to the daily comics</a></p>
+
+
+    </body>
+</html>
